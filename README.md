@@ -22,4 +22,4 @@
   git commit -m "комментарий к коммиту"<br>
 
 - загрузить все обратно на github: git push
-6. Замечания к работе смотреть в Pull request -> FeedBack
+6. Замечания к работе смотреть в Pull requests -> FeedBack
