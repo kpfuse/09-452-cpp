@@ -1,4 +1,4 @@
-# 09-452-cpp-labs
+# Лабораторные работы группы 09-452
 
 Группа в telegram: https://t.me/+oa-1-WtOKXU1N2Ri
 
