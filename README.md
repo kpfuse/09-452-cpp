@@ -1,8 +1,16 @@
 # Лабораторные работы группы 09-452
+## Лабораторная работа 02.
 
-Группа в telegram: https://t.me/+oa-1-WtOKXU1N2Ri
+https://drive.google.com/file/d/1Vz7Enfc-z2oT5Tq0DtIdR8BQBJlfAXpr/view?usp=sharing
 
-<img src="https://github.com/user-attachments/assets/37eba4ae-01ed-4268-844c-e1957201c07f" width="300"/>
+или
+
+https://github.com/kpfuse/09-452-cpp/blob/main/Lab02_ind02.pdf
+
+Куда сдать: 
+https://classroom.github.com/a/3h85TcsV 
+
+---
 
 ## Лабораторная работа 01.
 
@@ -24,13 +32,8 @@
 - загрузить все обратно на github: git push
 6. Замечания к работе смотреть в Pull requests -> FeedBack
 
+---
+## Группа в telegram: 
+https://t.me/+oa-1-WtOKXU1N2Ri
 
-## Лабораторная работа 02.
-
-https://drive.google.com/file/d/1Vz7Enfc-z2oT5Tq0DtIdR8BQBJlfAXpr/view?usp=sharing
-
-или
-
-https://github.com/kpfuse/09-452-cpp/blob/main/Lab02_ind02.pdf
-
-Куда сдать: 
+<img src="https://github.com/user-attachments/assets/37eba4ae-01ed-4268-844c-e1957201c07f" width="300"/>
