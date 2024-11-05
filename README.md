@@ -23,3 +23,12 @@
 
 - загрузить все обратно на github: git push
 6. Замечания к работе смотреть в Pull requests -> FeedBack
+
+
+## Лабораторная работа 02.
+
+https://drive.google.com/file/d/1Vz7Enfc-z2oT5Tq0DtIdR8BQBJlfAXpr/view?usp=sharing
+
+или
+
+Куда сдать: 
