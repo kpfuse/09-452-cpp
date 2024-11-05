@@ -8,7 +8,7 @@ https://drive.google.com/file/d/1Vz7Enfc-z2oT5Tq0DtIdR8BQBJlfAXpr/view?usp=shari
 https://github.com/kpfuse/09-452-cpp/blob/main/Lab02_ind02.pdf
 
 Куда сдать: 
-https://classroom.github.com/a/3h85TcsV 
+https://classroom.github.com/a/gER6i4A3
 
 ---
 
