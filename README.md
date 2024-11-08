@@ -5,7 +5,7 @@ https://drive.google.com/file/d/1aRQkrQIOn5e0Hv4MuOiIP6SemNAgps9f/view?usp=shari
 
 или
 
-https://github.com/kpfuse/09-452-cpp/blob/main/Lab02_ind02.pdf
+https://github.com/kpfuse/09-452-cpp/blob/main/Lab03_ind03.pdf
 
 Куда сдать: 
 https://classroom.github.com/a/wkgNrsVI
