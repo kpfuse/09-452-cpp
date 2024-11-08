@@ -11,7 +11,7 @@ https://github.com/kpfuse/09-452-cpp/blob/main/Lab03_ind03.pdf
 https://classroom.github.com/a/wkgNrsVI
 
 ---
-№# Лабораторная работа 02.
+## Лабораторная работа 02.
 
 https://drive.google.com/file/d/1Vz7Enfc-z2oT5Tq0DtIdR8BQBJlfAXpr/view?usp=sharing
 
