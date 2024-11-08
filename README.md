@@ -1,5 +1,17 @@
 # Лабораторные работы группы 09-452
-## Лабораторная работа 02.
+## Лабораторная работа 03.
+
+https://drive.google.com/file/d/1aRQkrQIOn5e0Hv4MuOiIP6SemNAgps9f/view?usp=sharing
+
+или
+
+https://github.com/kpfuse/09-452-cpp/blob/main/Lab02_ind02.pdf
+
+Куда сдать: 
+https://classroom.github.com/a/wkgNrsVI
+
+---
+# Лабораторная работа 02.
 
 https://drive.google.com/file/d/1Vz7Enfc-z2oT5Tq0DtIdR8BQBJlfAXpr/view?usp=sharing
 
@@ -11,7 +23,6 @@ https://github.com/kpfuse/09-452-cpp/blob/main/Lab02_ind02.pdf
 https://classroom.github.com/a/gER6i4A3
 
 ---
-
 ## Лабораторная работа 01.
 
 куда сдать:  https://classroom.github.com/a/wLy7Be2B 
