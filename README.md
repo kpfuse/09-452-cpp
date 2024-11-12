@@ -5,12 +5,13 @@ https://drive.google.com/file/d/1mzir7Qdl1EsaXl5DcjkTgEaA-frqYoAc/view?usp=shari
 
 или
 
-https://github.com/kpfuse/09-452-cpp/blob/main/Lab04_ind04.pdf
+https://github.com/kpfuse/09-452-cpp/blob/main/Lab05_ind05.pdf
 
 Куда сдать: 
 https://classroom.github.com/a/99pyfiVe
 
 ---
+
 ## Лабораторная работа 04.
 
 https://drive.google.com/file/d/1JzS3DAKcpTVVJUILO_jBEQNLAfPx0IQb/view?usp=sharing
@@ -22,7 +23,9 @@ https://github.com/kpfuse/09-452-cpp/blob/main/Lab04_ind04.pdf
 Куда сдать: 
 https://classroom.github.com/a/N-2Nsj0Q
 
----## Лабораторная работа 03.
+---
+
+## Лабораторная работа 03.
 
 https://drive.google.com/file/d/1aRQkrQIOn5e0Hv4MuOiIP6SemNAgps9f/view?usp=sharing
 
@@ -34,6 +37,7 @@ https://github.com/kpfuse/09-452-cpp/blob/main/Lab03_ind03.pdf
 https://classroom.github.com/a/wkgNrsVI
 
 ---
+
 ## Лабораторная работа 02.
 
 https://drive.google.com/file/d/1Vz7Enfc-z2oT5Tq0DtIdR8BQBJlfAXpr/view?usp=sharing
