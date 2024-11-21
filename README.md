@@ -88,8 +88,3 @@ https://classroom.github.com/a/gER6i4A3
 - загрузить все обратно на github: git push
 6. Замечания к работе смотреть в Pull requests -> FeedBack
 
----
-## Группа в telegram: 
-https://t.me/+oa-1-WtOKXU1N2Ri
-
-<img src="https://github.com/user-attachments/assets/37eba4ae-01ed-4268-844c-e1957201c07f" width="300"/>
