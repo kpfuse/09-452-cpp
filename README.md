@@ -7,7 +7,6 @@ https://drive.google.com/file/d/1Drn34PzGuQcFH-9-JogShAdjur1Vh7CH/view?usp=shari
 Куда сдать: https://classroom.github.com/a/dkYiqQ17
 
 ---
-# Лабораторные работы группы 09-452
 ## Лабораторная работа 08.
 
 https://drive.google.com/file/d/1-oVEx2fW8Tnte3NQ2M_rla18kEtzMl2O/view?usp=sharing
