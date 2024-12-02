@@ -1,4 +1,12 @@
 # Лабораторные работы группы 09-452
+## Лабораторная работа 10.
+
+
+
+
+Куда сдать: https://classroom.github.com/a/P37ozQq3
+
+---
 ## Лабораторная работа 09.
 
 https://drive.google.com/file/d/1Drn34PzGuQcFH-9-JogShAdjur1Vh7CH/view?usp=sharing
