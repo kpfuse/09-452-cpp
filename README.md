@@ -1,7 +1,17 @@
 # Лабораторные работы группы 09-452
+## Лабораторная работа 11.
+
+https://drive.google.com/file/d/1NGJZDtWvDhm9yqDGRGKEN06ZW0Fy5aZU/view?usp=sharing
+
+
+Как сдать:  **Решение сдавать очно преподавателю** <br>
+Также разместить решение в репозиторий:  
+https://classroom.github.com/a/jYGbx8Ym
+
+---
 ## Лабораторная работа 10.
 
-
+https://drive.google.com/file/d/1f5qsZPeJ-au3sY-F2caeENCynIZlGm5A/view?usp=sharing
 
 
 Куда сдать: https://classroom.github.com/a/P37ozQq3
