@@ -1,4 +1,20 @@
 # Лабораторные работы группы 09-452
+## Лабораторная работа 13.
+
+https://drive.google.com/file/d/16wxzFMY4fgxjseNhPXb1vUMTCJQLSh_1/view?usp=sharing
+
+
+Как сдать:  https://classroom.github.com/a/7DpbIoZx 
+
+---
+## Лабораторная работа 12.
+
+https://drive.google.com/file/d/1mJ7rXf0_sLLHbisH0VpIkOkWIxNbfi6S/view?usp=sharing
+
+
+Как сдать:  https://classroom.github.com/a/oc20m1rl
+
+---
 ## Лабораторная работа 11.
 
 https://drive.google.com/file/d/1NGJZDtWvDhm9yqDGRGKEN06ZW0Fy5aZU/view?usp=sharing
